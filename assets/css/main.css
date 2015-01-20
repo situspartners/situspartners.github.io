@@ -1,6 +1,7 @@
 .container-body{
   background-image: url(../images/NYC-Dusk.jpg);
   background-position: 90% 0%;
+  width: 200vh;
   height: 150vh;
 }
 
