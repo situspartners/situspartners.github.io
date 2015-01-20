@@ -40,7 +40,8 @@ and (max-device-width : 667px) {
   .container-body{
     background-position: 90% 0%;
     background-repeat: no-repeat;
-    height: 100%;
+    width: 200px;
+    height: 750px;
   }
 }
 
