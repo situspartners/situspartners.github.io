@@ -39,6 +39,10 @@
   height: 100vh;
 }*/
 
+  .boiler{
+    font-size: 30px;
+  }
+
   .logo {
     max-height: 30vh;
   }
