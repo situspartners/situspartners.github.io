@@ -33,13 +33,23 @@
   height: 20vh
 }
 
+
+@media only screen
+and (min-device-width : 375px)
+and (max-device-width : 667px) {
+  .container-body{
+    background-position: 90% 0%;
+    background-repeat: no-repeat;
+    height: 100%;
+  }
+}
+
 @media screen and (max-width: 600px){
 /*  .container-body{
   background-image: url(../images/NYC-Skyline.jpg);
   background-position: 30% 20%;
   height: 100vh;
 }*/
-
   .boiler{
     font-size: 30px;
   }
