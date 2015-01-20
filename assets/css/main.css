@@ -1,14 +1,3 @@
-
-@media (max-width: 600px){
-  .container-body{
-    height:100vh;
-  }
-
-  .logo {
-    max-height: 30vh;
-  }
-}
-
 .container-body{
   background-image: url(../images/NYC-Dusk.jpg);
   background-position: 90% 0%;
@@ -20,8 +9,6 @@
   box-shadow: none;
   height: 105px;
 }*/
-
-
 
 .logo{
   display: block;
@@ -43,5 +30,17 @@
 
 .tail{
   height: 20vh
+}
+
+@media (max-width: 600px){
+  .container-body{
+  background-image: url(../images/NYC-Skyline.jpg);
+  background-position: 30% 20%;
+  height: 100vh;
+}
+
+  .logo {
+    max-height: 30vh;
+  }
 }
 
