@@ -1,3 +1,14 @@
+
+@media (max-width: 600px){
+  .container-body{
+    height:100vh;
+  }
+
+  .logo {
+    max-height: 30vh;
+  }
+}
+
 .container-body{
   background-image: url(../images/NYC-Dusk.jpg);
   background-position: 90% 0%;
@@ -10,11 +21,7 @@
   height: 105px;
 }*/
 
-@media (max-width: 600px){
-  .logo {
-    max-height: 30vh;
-  }
-}
+
 
 .logo{
   display: block;
