@@ -33,7 +33,7 @@
   height: 20vh
 }
 
-@media (max-width: 600px){
+@media screen and (max-width: 600px){
 /*  .container-body{
   background-image: url(../images/NYC-Skyline.jpg);
   background-position: 30% 20%;
